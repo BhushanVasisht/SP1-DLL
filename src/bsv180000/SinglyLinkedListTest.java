@@ -1,4 +1,4 @@
-/** @author bsv180000, shariq ali
+/** @author bsv180000, sxa190016
  *  Doubly linked list: Short project 1
  *
  */
