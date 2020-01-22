@@ -27,3 +27,6 @@ out/
 .idea/
 *.iml
 /bin/
+
+.classpath
+.project
